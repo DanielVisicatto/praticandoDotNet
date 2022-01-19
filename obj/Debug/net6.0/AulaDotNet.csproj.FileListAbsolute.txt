@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\AulaDotNet.exe
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\AulaDotNet.deps.json
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\AulaDotNet.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\AulaDotNet.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\ref\AulaDotNet.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\bin\Debug\net6.0\AulaDotNet.pdb
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\ref\AulaDotNet.dll
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.pdb
+C:\Users\D4ni3L\Desktop\Dio\Primeiros-Projetos-C#\.NET\AulaDotNet\obj\Debug\net6.0\AulaDotNet.genruntimeconfig.cache
